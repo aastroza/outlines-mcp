@@ -1,0 +1,6 @@
+outlines==0.2.3
+mcp==1.6.0
+transformers
+torch
+sentencepiece
+accelerate>=0.26.0
